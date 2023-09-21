@@ -7,7 +7,7 @@
 ### Installation
 
 ```
-$ git clone 
+$ git clone https://github.com/hussain-creator/phoneinfo
 $ cd phoneinfo
 $ pip install -r requirements.txt
 $ python3 main.py
